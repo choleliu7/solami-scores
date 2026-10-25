@@ -1,0 +1,22 @@
+{
+  "scores": [
+    {
+      "title": "音阶测试",
+      "author": "Solami",
+      "difficulty": "入门",
+      "tempo": 2,
+      "keyMap": [
+        60, 62, 64, 65, 67, 69, 71, 72,
+        74, 76, 77, 79, 81, 83, 84, 86
+      ],
+      "events": [
+        { "mask": 1, "duration": 4 },
+        { "mask": 2, "duration": 4 },
+        { "mask": 4, "duration": 4 },
+        { "mask": 8, "duration": 4 },
+        { "mask": 16, "duration": 4 },
+        { "mask": 0, "duration": 4 }
+      ]
+    }
+  ]
+}
