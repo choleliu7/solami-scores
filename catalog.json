@@ -17,10 +17,8 @@
         { "mask": 16, "duration": 4 },
         { "mask": 0, "duration": 4 }
       ]
-    }
-  ]
-},
-{
+    },
+    {
   "title": "两只老虎",
   "author": "传统儿歌",
   "difficulty": "入门",
@@ -124,3 +122,6 @@
     {"mask": 1, "duration": 8}
   ]
 }
+  ]
+}
+
