@@ -19,4 +19,108 @@
       ]
     }
   ]
+},
+{
+  "title": "两只老虎",
+  "author": "传统儿歌",
+  "difficulty": "入门",
+  "tempo": 1,
+  "keyMap": [60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86],
+  "events": [
+    {"mask": 1, "duration": 4},
+    {"mask": 2, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 1, "duration": 4},
+
+    {"mask": 1, "duration": 4},
+    {"mask": 2, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 1, "duration": 4},
+
+    {"mask": 4, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 16, "duration": 8},
+
+    {"mask": 4, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 16, "duration": 8},
+
+    {"mask": 16, "duration": 2},
+    {"mask": 32, "duration": 2},
+    {"mask": 16, "duration": 2},
+    {"mask": 8, "duration": 2},
+    {"mask": 4, "duration": 4},
+    {"mask": 1, "duration": 4},
+
+    {"mask": 16, "duration": 2},
+    {"mask": 32, "duration": 2},
+    {"mask": 16, "duration": 2},
+    {"mask": 8, "duration": 2},
+    {"mask": 4, "duration": 4},
+    {"mask": 1, "duration": 4},
+
+    {"mask": 1, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 1, "duration": 8},
+
+    {"mask": 1, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 1, "duration": 8}
+  ]
+},
+{
+  "title": "小星星",
+  "author": "传统旋律",
+  "difficulty": "入门",
+  "tempo": 1,
+  "keyMap": [60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86],
+  "events": [
+    {"mask": 1, "duration": 4},
+    {"mask": 1, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 32, "duration": 4},
+    {"mask": 32, "duration": 4},
+    {"mask": 16, "duration": 8},
+
+    {"mask": 8, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 2, "duration": 4},
+    {"mask": 2, "duration": 4},
+    {"mask": 1, "duration": 8},
+
+    {"mask": 16, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 2, "duration": 8},
+
+    {"mask": 16, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 2, "duration": 8},
+
+    {"mask": 1, "duration": 4},
+    {"mask": 1, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 16, "duration": 4},
+    {"mask": 32, "duration": 4},
+    {"mask": 32, "duration": 4},
+    {"mask": 16, "duration": 8},
+
+    {"mask": 8, "duration": 4},
+    {"mask": 8, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 4, "duration": 4},
+    {"mask": 2, "duration": 4},
+    {"mask": 2, "duration": 4},
+    {"mask": 1, "duration": 8}
+  ]
 }
